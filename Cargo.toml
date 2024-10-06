@@ -2,5 +2,9 @@
 name = "bloomfilter-rs"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+keywords = ["data-structure", "bloomfilter"]
+authors = ["Simon Liu"]
+description = "A bloomfilter implementation in Rust"
 
 [dependencies]
